@@ -1,0 +1,4 @@
+Scenario,Capacity (t/y),Demand (t/y),Sold (t/y),Economic value (USD/kg),Revenue (USD M/y),Operating CF (USD M/y),CAPEX (USD M),OPEX (USD M/y),Support (USD M),Discount rate,Delay (years),Decision,NPV if CAPEX committed (USD M),Ex-ante decision NPV (USD M),Undiscounted break-even year,Discounted payback year,IRR,Levelised cost (USD/kg sold)
+Conservative,10,10,10,3000,30.0,-120.0,1000.0,150.0,0.0,0.16,2,Do not invest / cancel,-1000.0,0.0,,,,
+Baseline,50,50,50,5000,250.0,160.0,750.0,90.0,100.0,0.12,1,Operate,111.17854168859515,111.17854168859515,6.0,8.0,0.15479109684127232,4532.60462044258
+Optimistic,100,100,100,7000,700.0,650.0,500.0,50.0,200.0,0.08,0,Operate,4061.552909311937,4061.552909311937,1.0,1.0,2.1666452969923236,947.0884660912263
